@@ -1,0 +1,4 @@
+opencv-python==4.*
+moviepy==2.*
+pydub==0.*
+numpy==1.*
